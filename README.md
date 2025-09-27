@@ -8,7 +8,6 @@
 - [Books](#books)
 - [Tools](#tools)
 - [Newsletters](#newsletters)
-- [Companies](#companies)
 - [Contribute](#contribute)
 
 ## Articles
@@ -87,8 +86,8 @@ An incomplete list of tools that can help Product Engineers speed up their daily
 
 Specialized newsletters on the topic of Product Engineering.
 
-- [Product for Engineers](https://newsletter.posthog.com/) - a newsletter targeted at early-stage startup to help engineers build great products.
-- [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/) - a newsletter for software engineers and engineering managers, a perfect fit for product engineers wanting to learn about both.
+- [Product for Engineers](https://newsletter.posthog.com/) - A newsletter targeted at early-stage startup to help engineers build great products.
+- [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/) - A newsletter for software engineers and engineering managers, a perfect fit for product engineers wanting to learn about both.
 
 ## Contribute
 
