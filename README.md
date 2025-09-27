@@ -1,4 +1,4 @@
-# awesome-product-engineer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Product Engineer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of resources for the awesome Product Engineer.
 
