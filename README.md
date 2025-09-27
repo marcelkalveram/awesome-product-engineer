@@ -1,6 +1,6 @@
 # Awesome Product Engineer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of resources for the awesome Product Engineer.
+> A curated list of articles, books, tools and newsletters for the aspiring Product Engineer.
 
 ## Contents
 
