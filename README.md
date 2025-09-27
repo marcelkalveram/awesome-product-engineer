@@ -9,18 +9,19 @@
 - [Tools](#tools)
 - [Newsletters](#newsletters)
 - [Companies](#companies)
+- [Contribute](#contribute)
 
 ## Articles
 
 Some of the best introductory articles on the role of the Product Engineer on the web.
 
-- [What is a Product Engineer?](https://posthog.com/blog/what-is-a-product-engineer) - Understand what a Product Engineer is, what makes this role unique, and what skillsets and responsibilities it covers
-- [Product Engineer vs. Product Manager](https://posthog.com/blog/product-engineer-vs-product-manager) - Helps sharpen the distinction between those two related roles
-- [Product Engineer vs. Software Engineer](https://posthog.com/blog/product-engineer-vs-software-engineer) - Points out some important differences between the more traditional software and product engineer
-- [The Product-Minded Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/) - A slightly shorter rundown of the responsibilities of a product engineer
-- [How To Become a Product Engineer](https://hybridhacker.email/p/how-to-become-a-product-engineer) - A practical guide on the workflows and responsibilities of the product engineer
-- [The Product Engineer Checklist](https://dev.to/epilot/the-product-engineer-checklist-469d) - An extensive list of questions to consider for the aspiring product engineer
-- [Product Engineer Manifesto](https://productengineer.org/) - A concise description of the product engineering role, similar to the Agile manifesto
+- [What is a Product Engineer?](https://posthog.com/blog/what-is-a-product-engineer) - Understand what a Product Engineer is, what makes this role unique, and what skillsets and responsibilities it covers.
+- [Product Engineer vs. Product Manager](https://posthog.com/blog/product-engineer-vs-product-manager) - Helps sharpen the distinction between those two related roles.
+- [Product Engineer vs. Software Engineer](https://posthog.com/blog/product-engineer-vs-software-engineer) - Points out some important differences between the more traditional software and product engineer.
+- [The Product-Minded Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/) - A slightly shorter rundown of the responsibilities of a product engineer.
+- [How To Become a Product Engineer](https://hybridhacker.email/p/how-to-become-a-product-engineer) - A practical guide on the workflows and responsibilities of the product engineer.
+- [The Product Engineer Checklist](https://dev.to/epilot/the-product-engineer-checklist-469d) - An extensive list of questions to consider for the aspiring product engineer.
+- [Product Engineer Manifesto](https://productengineer.org/) - A concise description of the product engineering role, similar to the Agile manifesto.
 
 ## Books
 
@@ -28,8 +29,8 @@ A list of books that should help the aspiring Product Engineer get up to speed o
 
 ### Strategy
 
-- [Good Strategy , Bad Strategy]() - One of the best books on strategy with many examples from the world of technology
-- [Inspired](https://www.svpg.com/books/inspired-how-to-create-tech-products-customers-love-2nd-edition/) - A book on how to discover and deliver products that customers love
+- [Good Strategy , Bad Strategy](https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy) - One of the best books on strategy with many examples from the world of technology.
+- [Inspired](https://www.svpg.com/books/inspired-how-to-create-tech-products-customers-love-2nd-edition/) - A book on how to discover and deliver products that customers love.
 - [Empowered]() - as a leader of product management, product design, or engineering, with everything you’ll need to create just such an environment.
 
 ### Process
@@ -86,8 +87,8 @@ An incomplete list of tools that can help Product Engineers speed up their daily
 
 Specialized newsletters on the topic of Product Engineering.
 
-- [Product for Engineers](https://newsletter.posthog.com/) - a newsletter targeted at early-stage startup to help engineers build great products
-- [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/) - a newsletter for software engineers and engineering managers, a perfect fit for product engineers wanting to learn about both
+- [Product for Engineers](https://newsletter.posthog.com/) - a newsletter targeted at early-stage startup to help engineers build great products.
+- [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/) - a newsletter for software engineers and engineering managers, a perfect fit for product engineers wanting to learn about both.
 
 ## Contribute
 
