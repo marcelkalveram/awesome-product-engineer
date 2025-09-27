@@ -30,7 +30,7 @@ A list of books that should help the aspiring Product Engineer get up to speed o
 
 - [Good Strategy , Bad Strategy](https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy) - One of the best books on strategy with many examples from the world of technology.
 - [Inspired](https://www.svpg.com/books/inspired-how-to-create-tech-products-customers-love-2nd-edition/) - A book on how to discover and deliver products that customers love.
-- [Empowered](https://www.svpg.com/books/empowered-ordinary-people-extraordinary-products/) - as a leader of product management, product design, or engineering, with everything you’ll need to create just such an environment.
+- [Empowered](https://www.svpg.com/books/empowered-ordinary-people-extraordinary-products/) - As a leader of product management, product design, or engineering, with everything you’ll need to create just such an environment.
 
 ### Process
 
