@@ -82,6 +82,10 @@ An incomplete list of tools that can help Product Engineers speed up their daily
 - [Heap](https://www.heap.io/) - Automatically captures every user interaction for retroactive analysis.
 - [Hotjar](https://www.hotjar.com/) - Session recordings, heatmaps, and surveys to understand user behavior.
 
+## Videos
+
+- [How to work better with Product, as an Engineer with Ebi Atawodi](https://youtu.be/f4AGAeVe2Jw?feature=shared) - A talk on how to get product and engineering to truly operate as one team.
+
 ## Newsletters
 
 Specialized newsletters on the topic of Product Engineering.
