@@ -91,8 +91,11 @@ An incomplete list of tools that can help Product Engineers speed up their daily
 
 Specialized newsletters on the topic of Product Engineering.
 
-- [Product for Engineers](https://newsletter.posthog.com/) - A newsletter targeted at early-stage startup to help engineers build great products.
-- [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/) - A newsletter for software engineers and engineering managers, a perfect fit for product engineers wanting to learn about both.
+- [Product for Engineers](https://newsletter.posthog.com/) - A newsletter for early-stage startups that helps engineers build great products.
+- [Enginuity](https://newsletter.enginuity.software/) - Insights on cultivating a product engineering mindset and creating meaningful software.
+- [Product Engineering](https://producteng.dev/) - A Substack with deep dives into the technical levers behind products users love.
+- [Product Compass](https://www.productcompass.pm/) - Actionable tips, zero-to-one resources, and step-by-step playbooks for product builders.
+- [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/) - A newsletter for software engineers and engineering managers, occasionally touching on product topics.
 
 ## Contribute
 
