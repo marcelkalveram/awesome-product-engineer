@@ -88,6 +88,8 @@ An incomplete list of tools that can help Product Engineers speed up their daily
 
 ## Videos
 
+Talks and interviews exploring the mindset behind great product engineering.
+
 - ["How to work better with Product, as an Engineer" with Ebi Atawodi](https://youtu.be/f4AGAeVe2Jw?feature=shared) - On how to get product and engineering to operate as one team.
 - ["Why become a product engineer?" on Y Combinator Root Access](https://youtu.be/pQ9gtaGd-Os?feature=shared) - Two YC founders on what it means to be a product engineer.
 
