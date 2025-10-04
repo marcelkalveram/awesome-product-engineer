@@ -28,8 +28,8 @@ A list of books that should help the aspiring Product Engineer get up to speed o
 
 ### Strategy
 
-- [Good Strategy, Bad Strategy](https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy) - A clear explanation of strategy, featuring many cases from the tech world.
-- [Playing To Win](https://www.goodreads.com/book/show/13586928-playing-to-win) - A practical playbook on creating winning strategies.
+- [Good Strategy, Bad Strategy](https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy) - A clear explanation of strategy, featuring many cases from the world of technology.
+- [Playing To Win](https://www.goodreads.com/book/show/13586928-playing-to-win) - A playbook on creating winning strategies and how to guide everyday actions with larger strategic goals.
 
 ### Product
 - [Inspired](https://www.svpg.com/books/inspired-how-to-create-tech-products-customers-love-2nd-edition/) - How to discover and deliver products that customers love.
