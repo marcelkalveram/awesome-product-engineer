@@ -84,7 +84,7 @@ An incomplete list of tools that can help Product Engineers speed up their daily
 
 ## Videos
 
-- ["How to work better with Product, as an Engineer" with Ebi Atawodi](https://youtu.be/f4AGAeVe2Jw?feature=shared) - On how to get product and engineering to truly operate as one team.
+- ["How to work better with Product, as an Engineer" with Ebi Atawodi](https://youtu.be/f4AGAeVe2Jw?feature=shared) - On how to get product and engineering to truly operate as a team.
 - ["Why become a product engineer?" on Y Combinator Root Access](https://youtu.be/pQ9gtaGd-Os?feature=shared) - Two YC founders on what it means to be a product engineer.
 
 ## Newsletters
@@ -92,8 +92,8 @@ An incomplete list of tools that can help Product Engineers speed up their daily
 Specialized newsletters on the topic of Product Engineering.
 
 - [Product for Engineers](https://newsletter.posthog.com/) - A newsletter for early-stage startups that helps engineers build great products.
+- [Product Engineering](https://producteng.dev/) - A Substack with deep dives into the technical levers behind products users love. 
 - [Enginuity](https://newsletter.enginuity.software/) - Insights on cultivating a product engineering mindset and creating meaningful software.
-- [Product Engineering](https://producteng.dev/) - A Substack with deep dives into the technical levers behind products users love.
 - [Product Compass](https://www.productcompass.pm/) - Actionable tips, zero-to-one resources, and step-by-step playbooks for product builders.
 - [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/) - A newsletter for software engineers and engineering managers, occasionally touching on product topics.
 
