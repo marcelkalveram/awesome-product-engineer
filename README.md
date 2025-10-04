@@ -14,9 +14,9 @@
 
 Some of the best introductory articles on the role of the Product Engineer on the web.
 
-- [What is a Product Engineer?](https://posthog.com/blog/what-is-a-product-engineer) - Understand what a Product Engineer is, what makes this role unique, and what skillsets and responsibilities it covers.
+- [What is a Product Engineer?](https://posthog.com/blog/what-is-a-product-engineer) - Understand what a Product Engineer is, what makes this role unique.
 - [Product Engineer vs. Product Manager](https://posthog.com/blog/product-engineer-vs-product-manager) - Helps sharpen the distinction between those two related roles.
-- [Product Engineer vs. Software Engineer](https://posthog.com/blog/product-engineer-vs-software-engineer) - Points out some important differences between the more traditional software and product engineer.
+- [Product Engineer vs. Software Engineer](https://posthog.com/blog/product-engineer-vs-software-engineer) - Points out some important differences to the more traditional software engineer.
 - [The Product-Minded Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/) - A slightly shorter rundown of the responsibilities of a product engineer.
 - [How To Become a Product Engineer](https://hybridhacker.email/p/how-to-become-a-product-engineer) - A practical guide on the workflows and responsibilities of the product engineer.
 - [The Product Engineer Checklist](https://dev.to/epilot/the-product-engineer-checklist-469d) - An extensive list of questions to consider for the aspiring product engineer.
@@ -37,14 +37,14 @@ A list of books that should help the aspiring Product Engineer get up to speed o
 
 ### Process
 
-- [Escaping The Build Trap](https://melissaperri.com/book) - Explains how organizations get stuck focusing on outputs instead of outcomes, and how to align product development with real business value.
-- [Shape Up](https://basecamp.com/shapeup) - Describes Basecamp’s approach to product development with fixed cycles, small bets, and shaped work to reduce risk and overplanning.
-- [Continuous Discovery Habits](https://www.amazon.com/Continuous-Discovery-Habits-Discover-Products/dp/1736633309) - A practical guide to making continuous customer discovery a core habit in product teams.
+- [Escaping The Build Trap](https://melissaperri.com/book) - Explains how to align product development with real business value.
+- [Shape Up](https://basecamp.com/shapeup) - Describes Basecamp’s approach to product development to reduce risk and overplanning.
+- [Continuous Discovery Habits](https://www.amazon.com/Continuous-Discovery-Habits-Discover-Products/dp/1736633309) - A practical guide to making continuous customer discovery a core habit.
 
 ### User discovery
 
 - [The Mom Test](https://www.momtestbook.com/) - Teaches how to talk to customers and validate product ideas without getting biased or misleading feedback.
-- [User Story Mapping](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909/) - Introduces story mapping as a technique to visualize user journeys, prioritize features, and create a shared understanding of product scope.
+- [User Story Mapping](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909/) - Introduces story mapping as a technique to create a shared understanding of product scope.
 
 ## Tools
 
