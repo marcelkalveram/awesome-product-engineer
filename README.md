@@ -6,6 +6,7 @@
 
 - [Articles](#articles)
 - [Books](#books)
+- [Courses](#courses)
 - [Tools](#tools)
 - [Newsletters](#newsletters)
 - [Contribute](#contribute)
@@ -32,6 +33,7 @@ A list of books that should help the aspiring Product Engineer get up to speed o
 - [Playing To Win](https://www.goodreads.com/book/show/13586928-playing-to-win) - A playbook on creating winning strategies and how to guide everyday actions with larger strategic goals.
 
 ### Product
+
 - [Inspired](https://www.svpg.com/books/inspired-how-to-create-tech-products-customers-love-2nd-edition/) - How to discover and deliver products that customers love.
 - [Empowered](https://www.svpg.com/books/empowered-ordinary-people-extraordinary-products/) - Best practices and techniques for product management, product design and engineering.
 - [Transformed](https://www.svpg.com/books/transformed-moving-to-the-product-operating-model/) - How to bridge the gap between where most companies are right now and where they need to be.
@@ -46,6 +48,12 @@ A list of books that should help the aspiring Product Engineer get up to speed o
 
 - [The Mom Test](https://www.momtestbook.com/) - Teaches how to talk to customers and validate product ideas without getting biased or misleading feedback.
 - [User Story Mapping](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909/) - Introduces story mapping as a technique to create a shared understanding of product scope.
+
+## Courses
+
+- [Advanced Course In Product Engineering](https://cursos.escuelaescribano.com/advanced-course-product-engineering) - Helps engineers shift their mindset and transform themselves into Product Engineers.
+- [Complete Intro To Product Management](https://frontendmasters.com/courses/product-management/) - Teaches engineers all the necessary skills to become Product Managers
+- [Product School](https://productschool.com/) - Offers a wide range of product-related courses with an emphasis on AI, led by industry experts
 
 ## Tools
 
@@ -98,7 +106,7 @@ Talks and interviews exploring the mindset behind great product engineering.
 Specialized newsletters on the topic of Product Engineering.
 
 - [Product for Engineers](https://newsletter.posthog.com/) - A newsletter for early-stage startups that helps engineers build great products.
-- [Product Engineering](https://producteng.dev/) - A Substack with deep dives into the technical levers behind products users love. 
+- [Product Engineering](https://producteng.dev/) - A Substack with deep dives into the technical levers behind products users love.
 - [Enginuity](https://newsletter.enginuity.software/) - Insights on cultivating a product engineering mindset and creating meaningful software.
 - [Product Compass](https://www.productcompass.pm/) - Actionable tips, zero-to-one resources, and step-by-step playbooks for product builders.
 - [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/) - A newsletter for software engineers and engineering managers, occasionally touching on product topics.
