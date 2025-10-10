@@ -8,6 +8,7 @@
 - [Books](#books)
 - [Courses](#courses)
 - [Tools](#tools)
+- [Videos](#videos)
 - [Newsletters](#newsletters)
 - [Contribute](#contribute)
 
