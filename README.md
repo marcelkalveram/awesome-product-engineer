@@ -18,10 +18,10 @@ Some of the best introductory articles on the role of the Product Engineer on th
 - [What is a Product Engineer?](https://posthog.com/blog/what-is-a-product-engineer) - Understand what a Product Engineer is, what makes this role unique.
 - [Product Engineer vs. Product Manager](https://posthog.com/blog/product-engineer-vs-product-manager) - Helps sharpen the distinction between those two related roles.
 - [Product Engineer vs. Software Engineer](https://posthog.com/blog/product-engineer-vs-software-engineer) - Points out some important differences to the more traditional software engineer.
-- [The Product-Minded Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/) - A slightly shorter rundown of the responsibilities of a product engineer.
-- [How To Become a Product Engineer](https://hybridhacker.email/p/how-to-become-a-product-engineer) - A practical guide on the workflows and responsibilities of the product engineer.
-- [The Product Engineer Checklist](https://dev.to/epilot/the-product-engineer-checklist-469d) - An extensive list of questions to consider for the aspiring product engineer.
-- [Product Engineer Manifesto](https://productengineer.org/) - A concise description of the product engineering role, similar to the Agile manifesto.
+- [The Product-Minded Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/) - A slightly shorter rundown of the responsibilities of a Product Engineer.
+- [How To Become a Product Engineer](https://hybridhacker.email/p/how-to-become-a-product-engineer) - A practical guide on the workflows and responsibilities of the Product Engineer.
+- [The Product Engineer Checklist](https://dev.to/epilot/the-product-engineer-checklist-469d) - An extensive list of questions to consider for the aspiring Product Engineer.
+- [Product Engineer Manifesto](https://productengineer.org/) - A concise description of the Product Engineering role, similar to the Agile manifesto.
 
 ## Books
 
@@ -98,10 +98,11 @@ An incomplete list of tools that can help Product Engineers speed up their daily
 
 ## Videos
 
-Talks and interviews exploring the mindset behind great product engineering.
+Talks and interviews exploring the mindset behind great Product Engineering.
 
 - ["How to work better with Product, as an Engineer" with Ebi Atawodi](https://youtu.be/f4AGAeVe2Jw?feature=shared) - On how to get product and engineering to operate as one team.
-- ["Why become a product engineer?" on Y Combinator Root Access](https://youtu.be/pQ9gtaGd-Os?feature=shared) - Two YC founders on what it means to be a product engineer.
+- ["Why become a Product Engineer?" on Y Combinator Root Access](https://youtu.be/pQ9gtaGd-Os?feature=shared) - Two YC founders on what it means to be a Product Engineer.
+- ["Decoding Product Engineering" by ePilot Tech](https://www.youtube.com/watch?v=LVOkpCPCTgs) - A discussion on the mindset shift from traditional Software Engineers to modern Product Engineers
 
 ## Newsletters
 
@@ -109,7 +110,7 @@ Specialized newsletters on the topic of Product Engineering.
 
 - [Product for Engineers](https://newsletter.posthog.com/) - A newsletter for early-stage startups that helps engineers build great products.
 - [Product Engineering](https://producteng.dev/) - A Substack with deep dives into the technical levers behind products users love.
-- [Enginuity](https://newsletter.enginuity.software/) - Insights on cultivating a product engineering mindset and creating meaningful software.
+- [Enginuity](https://newsletter.enginuity.software/) - Insights on cultivating a Product Engineering mindset and creating meaningful software.
 - [Product Compass](https://www.productcompass.pm/) - Actionable tips, zero-to-one resources, and step-by-step playbooks for product builders.
 - [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/) - A newsletter for software engineers and engineering managers, occasionally touching on product topics.
 
