@@ -8,7 +8,7 @@
 - [Books](#books)
 - [Courses](#courses)
 - [Tools](#tools)
-- [Videos](#videos)
+- [Media](#media)
 - [Newsletters](#newsletters)
 - [Companies](#companies)
 - [Contribute](#contribute)
@@ -98,13 +98,15 @@ An incomplete list of tools that can help Product Engineers speed up their daily
 - [Heap](https://www.heap.io/) - Automatically captures every user interaction for retroactive analysis.
 - [Hotjar](https://www.hotjar.com/) - Session recordings, heatmaps, and surveys to understand user behavior.
 
-## Videos
+## Media
 
 Talks and interviews exploring the mindset behind great Product Engineering.
 
 - ["How to work better with Product, as an Engineer" with Ebi Atawodi](https://youtu.be/f4AGAeVe2Jw?feature=shared) - On how to get product and engineering to operate as one team.
 - ["Why become a Product Engineer?" on Y Combinator Root Access](https://youtu.be/pQ9gtaGd-Os?feature=shared) - Two YC founders on what it means to be a Product Engineer.
 - ["Decoding Product Engineering" by ePilot Tech](https://www.youtube.com/watch?v=LVOkpCPCTgs) - A discussion on the mindset shift from traditional Software Engineers to modern Product Engineers
+- ["Matt Swanson - The Product Engineer" on IndieRails](https://www.indierails.com/61) - Matt Swanson shares insights on product engineering, SaaS growth, AI tools, and publishing technical content.
+- [The Product Engineer Podcast](https://open.spotify.com/show/1uuFKctzUiyo7gPadMqVhZ) - A place where Product Engineers talk about their strategies, tools and technologies.
 
 ## Newsletters
 
