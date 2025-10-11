@@ -122,7 +122,9 @@ A list of companies that employ or hire Product Engineers.
 
 - [Posthog](https://posthog.com) - Tools for product engineers to build successful products.
 - [ePilot](https://www.epilot.cloud) - Cloud software to support the energy transition.
-- [Lingokids](https://lingokids.com) - App for kids that turns learning into a fun experience.
+- [Ghost](https://ghost.org) - An app for publishers to create, share, and grow a business around their content.
+- [Incident](https://incident.io) - An AI platform for on-call, incident response, and status pages.
+- [Lingokids](https://lingokids.com) - An app for kids that turns learning into a fun experience.
 
 ## Contribute
 
