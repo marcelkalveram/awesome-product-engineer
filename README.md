@@ -10,6 +10,7 @@
 - [Tools](#tools)
 - [Videos](#videos)
 - [Newsletters](#newsletters)
+- [Companies](#companies)
 - [Contribute](#contribute)
 
 ## Articles
@@ -114,6 +115,14 @@ Specialized newsletters on the topic of Product Engineering.
 - [Enginuity](https://newsletter.enginuity.software/) - Insights on cultivating a Product Engineering mindset and creating meaningful software.
 - [Product Compass](https://www.productcompass.pm/) - Actionable tips, zero-to-one resources, and step-by-step playbooks for product builders.
 - [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/) - A newsletter for software engineers and engineering managers, occasionally touching on product topics.
+
+## Companies
+
+A list of companies that employ or hire Product Engineers.
+
+- [Posthog](https://posthog.com) - Tools for product engineers to build successful products.
+- [ePilot](https://www.epilot.cloud) - Cloud software to support the energy transition.
+- [Lingokids](https://lingokids.com) - App for kids that turns learning into a fun experience.
 
 ## Contribute
 
