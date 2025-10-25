@@ -43,7 +43,7 @@ A list of books that should help the aspiring Product Engineer get up to speed o
 ### Process
 
 - [Escaping The Build Trap](https://melissaperri.com/book) - Explains how to align product development with real business value.
-- [Shape Up](https://basecamp.com/shapeup) - Describes Basecamp’s approach to product development to reduce risk and overplanning.
+- [Shape Up](https://basecamp.com/shapeup) - Describes Basecamp's approach to product development to reduce risk and overplanning.
 - [Continuous Discovery Habits](https://www.amazon.com/Continuous-Discovery-Habits-Discover-Products/dp/1736633309) - A practical guide to making continuous customer discovery a core habit.
 
 ### User discovery
@@ -80,7 +80,7 @@ An incomplete list of tools that can help Product Engineers speed up their daily
 
 ### Wireframing and mocking
 
-- [FigJam](https://www.figma.com/figjam/) - Figma’s collaborative whiteboard for ideation, creating user flows and prototyping.
+- [FigJam](https://www.figma.com/figjam/) - Figma's collaborative whiteboard for ideation, creating user flows and prototyping.
 - [Moqups](https://moqups.com/) - Lightweight, lower-level wireframing and diagramming tool in the browser.
 - [Mockflow](https://www.mockflow.com/) - Wireframing and UI planning tool with prebuilt component libraries for quick iterations.
 - [Justinmind](https://www.justinmind.com/) - Advanced prototyping tool for creating interactive web and mobile experiences rapidly.
@@ -104,7 +104,7 @@ Talks and interviews exploring the mindset behind great Product Engineering.
 
 - ["How to work better with Product, as an Engineer" with Ebi Atawodi](https://youtu.be/f4AGAeVe2Jw?feature=shared) - On how to get product and engineering to operate as one team.
 - ["Why become a Product Engineer?" on Y Combinator Root Access](https://youtu.be/pQ9gtaGd-Os?feature=shared) - Two YC founders on what it means to be a Product Engineer.
-- ["Decoding Product Engineering" by ePilot Tech](https://www.youtube.com/watch?v=LVOkpCPCTgs) - A discussion on the mindset shift from traditional Software Engineers to modern Product Engineers
+- ["Decoding Product Engineering" by ePilot Tech](https://www.youtube.com/watch?v=LVOkpCPCTgs) - A discussion on the mindset shift from traditional Software Engineers to modern Product Engineers.
 - ["Matt Swanson - The Product Engineer" on IndieRails](https://www.indierails.com/61) - Matt Swanson shares insights on product engineering, SaaS growth, AI tools, and publishing technical content.
 - [The Product Engineer Podcast](https://open.spotify.com/show/1uuFKctzUiyo7gPadMqVhZ) - A place where Product Engineers talk about their strategies, tools and technologies.
 
@@ -122,7 +122,7 @@ Specialized newsletters on the topic of Product Engineering.
 
 A list of companies that employ or hire Product Engineers.
 
-- [Posthog](https://posthog.com) - Tools for product engineers to build successful products.
+- [Posthog](https://posthog.com/careers) - Tools for product engineers to build successful products.
 - [ePilot](https://www.epilot.cloud) - Cloud software to support the energy transition.
 - [Ghost](https://ghost.org) - An app for publishers to create, share, and grow a business around their content.
 - [Incident](https://incident.io) - An AI platform for on-call, incident response, and status pages.
