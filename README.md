@@ -56,8 +56,8 @@ A list of books that should help the aspiring Product Engineer get up to speed o
 Online courses and educational programs designed to help engineers develop product thinking and cross-functional skills.
 
 - [Advanced Course In Product Engineering](https://cursos.escuelaescribano.com/advanced-course-product-engineering) - Helps engineers shift their mindset and transform themselves into Product Engineers.
-- [Complete Intro To Product Management](https://frontendmasters.com/courses/product-management/) - Teaches engineers all the necessary skills to become Product Managers
-- [Product School](https://productschool.com/) - Offers a wide range of product-related courses with an emphasis on AI, led by industry experts
+- [Complete Intro To Product Management](https://frontendmasters.com/courses/product-management/) - Teaches engineers all the necessary skills to become Product Managers.
+- [Product School](https://productschool.com/) - Offers a wide range of product-related courses with an emphasis on AI, led by industry experts.
 
 ## Tools
 
