@@ -67,8 +67,9 @@ An incomplete list of tools that can help Product Engineers speed up their daily
 
 - [Ping Pong](https://www.hellopingpong.com/) - Platform to recruit and schedule user research participants with built-in incentives and payments.
 - [Lyssna](https://www.lyssna.com/) - Remote testing platform for quick feedback on designs, prototypes, and messaging.
-- [Maze](https://maze.co/) - Continuous product discovery platform for unmoderated testing and actionable insights.
+- [Maze](https://maze.co/) - Continuous Product Discovery platform for unmoderated testing and actionable insights.
 - [useberry](https://www.useberry.com/) - Prototype testing tool to validate UX flows with real users before starting development.
+- [UserVoice](https://www.uservoice.com/) - Product Discovery tool to collect user feedback, identify opportunities and engage customers.
 
 ### Customer engagement
 
@@ -77,6 +78,7 @@ An incomplete list of tools that can help Product Engineers speed up their daily
 - [Userpilot](https://userpilot.com/) - In-app experience platform to guide users and drive adoption.
 - [Tally](https://tally.so/) - Simple, flexible form builder to gather customer feedback with Notion-like editing.
 - [Typeform](https://www.typeform.com/) - Conversational form builder designed for engaging surveys and feedback forms.
+- [AppCues](https://www.appcues.com/) - Platform for In-app messaging, Behavioural email and Push notifications.
 
 ### Wireframing and mocking
 
@@ -91,12 +93,14 @@ An incomplete list of tools that can help Product Engineers speed up their daily
 - [v0](https://v0.app/) - AI-powered tool for generating front-end code and UI components based on prompts.
 - [loveable](https://lovable.dev/) - Collaborative AI pair-programmer for shipping MVPs faster.
 - [Bolt](https://bolt.new/) - AI-driven platform to scaffold and ship full-stack applications quickly.
+- [Base44](https://base44.com/) - AI app builder that lets anyone turn ideas into working apps in minutes.
 
 ### Product analytics
 
 - [Posthog](https://posthog.com/) - Open-source product analytics with built-in session recording and feature flags.
 - [Heap](https://www.heap.io/) - Automatically captures every user interaction for retroactive analysis.
 - [Hotjar](https://www.hotjar.com/) - Session recordings, heatmaps, and surveys to understand user behavior.
+- [LaunchDarkly](https://launchdarkly.com/) - All-in-one platform for feature flags, experimentation and analytics.
 
 ## Media
 
