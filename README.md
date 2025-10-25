@@ -1,6 +1,7 @@
 # Awesome Product Engineer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of articles, books, tools and newsletters for the aspiring Product Engineer.
+> A curated list of articles, books, tools and newsletters for the aspiring Product Engineer.  
+> Bridge the craft of software development with product thinking and user engagement.
 
 ## Contents
 
