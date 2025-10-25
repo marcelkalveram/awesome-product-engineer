@@ -123,10 +123,10 @@ Specialized newsletters on the topic of Product Engineering.
 A list of companies that employ or hire Product Engineers.
 
 - [Posthog](https://posthog.com/careers) - Tools for product engineers to build successful products.
-- [ePilot](https://www.epilot.cloud) - Cloud software to support the energy transition.
-- [Ghost](https://ghost.org) - An app for publishers to create, share, and grow a business around their content.
-- [Incident](https://incident.io) - An AI platform for on-call, incident response, and status pages.
-- [Lingokids](https://lingokids.com) - An app for kids that turns learning into a fun experience.
+- [ePilot](https://www.epilot.cloud/en/company/careers) - Cloud software to support the energy transition.
+- [Ghost](https://careers.ghost.org/) - An app for publishers to create, share, and grow a business around their content.
+- [Incident](https://incident.io/careers) - An AI platform for on-call, incident response, and status pages.
+- [Lingokids](https://jobs.lingokids.com/jobs) - An app for kids that turns learning into a fun experience.
 
 ## Contribute
 
