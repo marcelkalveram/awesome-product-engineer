@@ -2,7 +2,7 @@
 
 > A curated list of articles, books, tools and newsletters for the aspiring Product Engineer.
 
-A Product Engineer bridges the craft of software development with product thinking and user engagement.
+Product Engineers bridge the craft of software development with product thinking and user engagement. They take end-to-end ownership of features, balancing technical decisions with customer needs to deliver impactful, high-quality user experiences.
 
 ## Contents
 
