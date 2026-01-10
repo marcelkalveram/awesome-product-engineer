@@ -26,6 +26,7 @@ Some of the best introductory articles on the role of the Product Engineer on th
 - [How To Become a Product Engineer](https://hybridhacker.email/p/how-to-become-a-product-engineer) - A practical guide on the workflows and responsibilities of the Product Engineer.
 - [The Product Engineer Checklist](https://dev.to/epilot/the-product-engineer-checklist-469d) - An extensive list of questions to consider for the aspiring Product Engineer.
 - [Product Engineer Manifesto](https://productengineer.org/) - A concise description of the Product Engineering role, similar to the Agile manifesto.
+- [How To Build a Product Engineering Culture](https://refactoring.fm/p/how-to-build-a-product-engineering) - A best-practice guide on common product engineering processes.
 
 ## Books
 
