@@ -48,6 +48,7 @@ A list of books that should help the aspiring Product Engineer get up to speed o
 - [Escaping The Build Trap](https://melissaperri.com/book) - Explains how to align product development with real business value.
 - [Shape Up](https://basecamp.com/shapeup) - Describes Basecamp's approach to product development to reduce risk and overplanning.
 - [Continuous Discovery Habits](https://www.amazon.com/Continuous-Discovery-Habits-Discover-Products/dp/1736633309) - A practical guide to making continuous customer discovery a core habit.
+- [The Product-Minded Engineer](https://www.oreilly.com/library/view/the-product-minded-engineer/9781098173722/) - A book that bridges the gap between technical expertise and user empathy.
 
 ### User discovery
 
