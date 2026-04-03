@@ -1,7 +1,5 @@
 # Awesome Product Engineer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of articles, books, tools and newsletters for the aspiring Product Engineer.
-
 Product Engineers bridge the craft of software development with product thinking and user engagement. They take end-to-end ownership of features, balancing technical decisions with customer needs to deliver impactful, high-quality user experiences.
 
 ## Contents
@@ -13,11 +11,10 @@ Product Engineers bridge the craft of software development with product thinking
 - [Media](#media)
 - [Newsletters](#newsletters)
 - [Companies](#companies)
-- [Contribute](#contribute)
 
 ## Articles
 
-Some of the best introductory articles on the role of the Product Engineer on the web.
+A list of articles on the role of the Product Engineer on the web.
 
 - [What is a Product Engineer?](https://posthog.com/blog/what-is-a-product-engineer) - Understand what a Product Engineer is, what makes this role unique.
 - [Product Engineer vs. Product Manager](https://posthog.com/blog/product-engineer-vs-product-manager) - Helps sharpen the distinction between those two related roles.
@@ -65,7 +62,7 @@ Online courses and educational programs designed to help engineers develop produ
 
 ## Tools
 
-An incomplete list of tools that can help Product Engineers speed up their daily work at each step of the SDLC.
+A list of tools that can help Product Engineers speed up their daily work at each step of the SDLC.
 
 ### User research
 
@@ -110,8 +107,8 @@ An incomplete list of tools that can help Product Engineers speed up their daily
 
 Talks and interviews exploring the mindset behind great Product Engineering.
 
-- ["How to work better with Product, as an Engineer" with Ebi Atawodi](https://youtu.be/f4AGAeVe2Jw?feature=shared) - On how to get product and engineering to operate as one team.
-- ["Why become a Product Engineer?" on Y Combinator Root Access](https://youtu.be/pQ9gtaGd-Os?feature=shared) - Two YC founders on what it means to be a Product Engineer.
+- ["How to work better with Product, as an Engineer" with Ebi Atawodi](https://www.youtube.com/watch?v=f4AGAeVe2Jw) - On how to get product and engineering to operate as one team.
+- ["Why become a Product Engineer?" on Y Combinator Root Access](https://www.youtube.com/watch?v=pQ9gtaGd-Os) - Two YC founders on what it means to be a Product Engineer.
 - ["Decoding Product Engineering" by ePilot Tech](https://www.youtube.com/watch?v=LVOkpCPCTgs) - A discussion on the mindset shift from traditional Software Engineers to modern Product Engineers.
 - ["Matt Swanson - The Product Engineer" on IndieRails](https://www.indierails.com/61) - Matt Swanson shares insights on product engineering, SaaS growth, AI tools, and publishing technical content.
 - [The Product Engineer Podcast](https://open.spotify.com/show/1uuFKctzUiyo7gPadMqVhZ) - A place where Product Engineers talk about their strategies, tools and technologies.
@@ -136,6 +133,6 @@ A list of companies that employ or hire Product Engineers.
 - [Incident](https://incident.io/careers) - An AI platform for on-call, incident response, and status pages.
 - [Lingokids](https://jobs.lingokids.com/jobs) - An app for kids that turns learning into a fun experience.
 
-## Contribute
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
