@@ -112,6 +112,8 @@ Talks and interviews exploring the mindset behind great Product Engineering.
 - ["Decoding Product Engineering" by ePilot Tech](https://www.youtube.com/watch?v=LVOkpCPCTgs) - A discussion on the mindset shift from traditional Software Engineers to modern Product Engineers.
 - ["Matt Swanson - The Product Engineer" on IndieRails](https://www.indierails.com/61) - Matt Swanson shares insights on product engineering, SaaS growth, AI tools, and publishing technical content.
 - [The Product Engineer Podcast](https://open.spotify.com/show/1uuFKctzUiyo7gPadMqVhZ) - A place where Product Engineers talk about their strategies, tools and technologies.
+- [Kent C. Dodds Chats Season 7](https://kentcdodds.com/chats/07) - Season 7 of the Kent C. Dodds podcast focuses on the craft of product engineering.
+- ["Leading Product Engineering Teams in an AI-native world"](https://www.youtube.com/watch?v=0Cv5763UX70) - Industry leaders discuss evolving technical roles and explore the role of product-minded engineering.
 
 ## Newsletters
 
