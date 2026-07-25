@@ -31,8 +31,8 @@ A list of books that should help the aspiring Product Engineer get up to speed o
 
 ### Strategy
 
-- [Good Strategy, Bad Strategy](https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy) - A clear explanation of strategy, featuring many cases from the world of technology.
-- [Playing To Win](https://www.goodreads.com/book/show/13586928-playing-to-win) - A playbook on creating winning strategies and how to guide everyday actions with larger strategic goals.
+- [Good Strategy, Bad Strategy](https://www.richardrumelt.com/good-strategy-bad-strategy) - A clear explanation of strategy, featuring many cases from the world of technology.
+- [Playing To Win](https://rogerlmartin.com/lets-read/playing-to-win) - A playbook on creating winning strategies and how to guide everyday actions with larger strategic goals.
 
 ### Product
 
@@ -44,13 +44,13 @@ A list of books that should help the aspiring Product Engineer get up to speed o
 
 - [Escaping The Build Trap](https://melissaperri.com/book) - Explains how to align product development with real business value.
 - [Shape Up](https://basecamp.com/shapeup) - Describes Basecamp's approach to product development to reduce risk and overplanning.
-- [Continuous Discovery Habits](https://www.amazon.com/Continuous-Discovery-Habits-Discover-Products/dp/1736633309) - A practical guide to making continuous customer discovery a core habit.
+- [Continuous Discovery Habits](https://www.producttalk.org/continuous-discovery-habits-book/) - A practical guide to making continuous customer discovery a core habit.
 - [The Product-Minded Engineer](https://www.oreilly.com/library/view/the-product-minded-engineer/9781098173722/) - A book that bridges the gap between technical expertise and user empathy.
 
 ### User discovery
 
 - [The Mom Test](https://www.momtestbook.com/) - Teaches how to talk to customers and validate product ideas without getting biased or misleading feedback.
-- [User Story Mapping](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909/) - Introduces story mapping as a technique to create a shared understanding of product scope.
+- [User Story Mapping](https://jpattonassociates.com/story-mapping/) - Introduces story mapping as a technique to create a shared understanding of product scope.
 
 ## Courses
 
@@ -136,8 +136,13 @@ A list of companies that employ or hire Product Engineers.
 - [Ghost](https://careers.ghost.org/) - An app for publishers to create, share, and grow a business around their content.
 - [Incident](https://incident.io/careers) - An AI platform for on-call, incident response, and status pages.
 - [Lingokids](https://jobs.lingokids.com/jobs) - An app for kids that turns learning into a fun experience.
-- [Artificial](https://artificial.io/) - A company building the foundations of modern specialty (re)insurance
+- [Artificial](https://artificial.io/) - A company building the foundations of modern specialty (re)insurance.
 
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## Footnotes
+
+- Many tools in this list are commercial, but most offer freemium tiers that are sufficient for individual developers and early-stage teams.
+- The company section is an intentionally curated, non-exhaustive snapshot of organizations that hire Product Engineers and is updated periodically.
