@@ -102,6 +102,7 @@ A list of tools that can help Product Engineers speed up their daily work at eac
 - [Heap](https://www.heap.io/) - Automatically captures every user interaction for retroactive analysis.
 - [Hotjar](https://www.hotjar.com/) - Session recordings, heatmaps, and surveys to understand user behavior.
 - [LaunchDarkly](https://launchdarkly.com/) - All-in-one platform for feature flags, experimentation and analytics.
+- [FullStory](https://fullstory.com/) - Captures real user behavior to improve digital experiences and inform AI.
 
 ## Media
 
@@ -114,6 +115,7 @@ Talks and interviews exploring the mindset behind great Product Engineering.
 - [The Product Engineer Podcast](https://open.spotify.com/show/1uuFKctzUiyo7gPadMqVhZ) - A place where Product Engineers talk about their strategies, tools and technologies.
 - [Kent C. Dodds Chats Season 7](https://kentcdodds.com/chats/07) - Season 7 of the Kent C. Dodds podcast focuses on the craft of product engineering.
 - ["Leading Product Engineering Teams in an AI-native world"](https://www.youtube.com/watch?v=0Cv5763UX70) - Industry leaders discuss evolving technical roles and explore the role of product-minded engineering.
+- [Become an Epic Product Engineer Podcast](https://www.epicproduct.engineer/become-an-epic-product-engineer-podcast) - Kent C. Dodds talks with product engineers about a variety of product-related topics.
 
 ## Newsletters
 
@@ -134,6 +136,7 @@ A list of companies that employ or hire Product Engineers.
 - [Ghost](https://careers.ghost.org/) - An app for publishers to create, share, and grow a business around their content.
 - [Incident](https://incident.io/careers) - An AI platform for on-call, incident response, and status pages.
 - [Lingokids](https://jobs.lingokids.com/jobs) - An app for kids that turns learning into a fun experience.
+- [Artificial](https://artificial.io/) - A company building the foundations of modern specialty (re)insurance
 
 ## Contributing
 
